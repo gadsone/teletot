@@ -27,23 +27,23 @@ There are multiple step when it comes to designing an application. Here are the 
 ----
 
 Organizations for TeleTot 
-●	The National Parenting Education Network (educating newer families through networking)
-●	National Diaper Bank Network (providing diapers)
-●	Program for Early Parent Support (connecting newer parents to peers)
+●The National Parenting Education Network (educating newer families through networking)
+●National Diaper Bank Network (providing diapers)
+●Program for Early Parent Support (connecting newer parents to peers)
 
 Causes for TeleTot
-●	Child welfare 
-●	Financial stability in families 
+●Child welfare 
+●Financial stability in families 
 
 Events for TeleTot
-●	MommyCon & DaddyCon  
-●	Baby Expo
-●	Toy drive
-●	Community gatherings
+●MommyCon & DaddyCon  
+●Baby Expo
+●Toy drive
+●Community gatherings
 
 Organizations not included in TeleTot App
-●	Parent Teacher Association (PTA)
-●	The Children’s Aid Society (helping children develop)  
+●Parent Teacher Association (PTA)
+●The Children’s Aid Society (helping children develop)  
 
 ----
 
