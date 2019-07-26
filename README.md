@@ -1,6 +1,6 @@
 # Revised Project Overview:TeleTot
 
-Our mission: Helping new parents adjust to parenthood one tip at a time. 
+## Our mission: Helping new parents adjust to parenthood one tip at a time. 
 Introduction to the iPhone app:
 Raising children nowadays can be very difficult for parents. We have created an application called, TeleTot is which is  designed for new parents of the millennial generation. Our application will allow for parents to connect with other parents in their communities. As society increases their dependency on cell phones, as a team we designed a platform where parents can be able to turn for dependable advice on day to day bumps they might face while raising their beloved tots. 
 
