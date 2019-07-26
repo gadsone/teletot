@@ -26,7 +26,7 @@ There are multiple step when it comes to designing an application. Here are the 
 
 ----
 
-### Organizations for TeleTot 
+#### Organizations for TeleTot 
 - The National Parenting Education Network (educating newer families through networking)
 - National Diaper Bank Network (providing diapers)
 - Program for Early Parent Support (connecting newer parents to peers)
